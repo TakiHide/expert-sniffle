@@ -1,5 +1,4 @@
 # expert-sniffle
 Hello!
 
-#Demo 
-Description of expert reviews 
+Some description of expert reviews 
